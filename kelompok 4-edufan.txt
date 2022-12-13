@@ -1,0 +1,170 @@
+Kelompok 4
+Nama Project: EduFan (website bimbel online)
+
+Koordinator : Catur Wulandari (Back-end)
+Anggota : 
+1. Arum Latifatul Hasanah (Back-end)
+2. Fina Aliatul Ch (Front-end)
+3. Hidayatul Musrifah (Front-end)
+4. Nailatur Rahmadiah (Database)
+
+Web server, PHP version: 8.1.6
+php MyAdmin, Version information: 5.2.0
+
+Selasa-Kamis, 15-17 November 2022
+All
+1.Menentukan judul
+2.Mencari referensi
+
+Jumat, 18 November 2022 (Water Reminder)
+All
+1.Fixasi tema (Water Reminder/Aplikasi Pengingat Minum Air Putih)
+2.Membuat tabel didatabase
+3.Membuat mockup dan wareframe
+4.Pembagian jobdesk
+
+Senin-Selasa, 21-22 November 2022
+Back-end
+1.Mencari referensi projek
+Front-end
+1.Mencari referensi projek
+Database
+1.Mencari referensi projek
+
+Rabu, 23 November 2022
+Ganti tema menjadi Edufan (BimBel Online)
+Back-end
+1.Membuat file-file dan menginstal dependensi yang diperlukan
+Front-end
+1.Membuat tampilan dashboard menggunakan React js
+Database
+1.Membuat Database dan Tabel-tabelnya
+
+Kamis, 24 November 2022
+Back-end
+1.Menghubungkan database dengan backend
+Front-end
+1.Melanjutkan membuat tampilan dashboard menggunakan React js
+Database
+1.Merapikan database dan tabel-tabelnya
+
+Jumat, 25 November 2022
+Back-end
+1.Proses Crud
+Front-end
+1.Melanjutkan membuat tampilan dashboard menggunakan React js
+Database
+1.Insert Data
+
+Senin, 28 November 2022
+Back-end
+1.Proses Crud
+Front-end
+1.Melanjutkan membuat tampilan dashboard menggunakan React js
+Database
+1.Insert Data
+
+Selasa, 29 November 2022
+Back-end
+1.Proses Crud
+Front-end
+1.Melanjutkan membuat tampilan dashboard menggunakan React js
+Database
+1.Insert Data
+
+Rabu, 30 November 2022
+Back-end
+1.Proses Crud
+Front-end
+1.Melanjutkan membuat tampilan dashboard untuk user menggunakan React js
+Database
+1.Insert Data
+
+Kamis, 1 Desember 2022
+Back-end
+1.Fix CRUD
+Front-end
+1.Melanjutkan membuat tampilan dashboard untuk admin menggunakan React js
+Database
+1.Fix CRUD
+
+Jumat, 2 Desember 2022
+Back-end
+1.Koneksi back-end ke front-end
+Front-end
+1.Melanjutkan membuat tampilan dashboard beserta menunya menggunakan React js
+2.Membuat tampilan semua data tabel
+
+
+Senin, 5 Desember 2022
+Back-end
+1.Koneksi backend ke frontend (menampilkan data)
+2.Menampilkan data tabel mapel, transaksi, user, di halaman ADMIN
+Front-end
+1.Membuat wadah/ tampilan dashboard USER (home, daftarprogram, programsaya, logout)
+2.Membuat wadah/ tampilan dashboard ADMIN (home, daftarprogram, transaksi, datauser, logout)
+
+Selasa, 6 Desember 2022
+Back-end
+1.Menampilkan data tabel mapel, pembayaran di halaman USER
+Front-end
+1.Mendesain ulang tampilan DASHBOARD UTAMA
+2.Membuat form login dan register
+
+Rabu, 7 Desember 2022
+Back-end
+1.Koneksi login dan register ke database bagian tabel user dan tabel admin
+Front-end
+1.Mendesain tampilan home USER
+
+Kamis, 8 Desember 2022
+Back-end
+1.Koneksi login dan register ke database bagian tabel user dan tabel admin
+Front-end
+1.Mendesain tampilan home ADMIN
+
+Jumat, 9 Desember 2022
+Back-end
+1.Koneksi login dan register ke database bagian tabel user dan tabel admin
+Front-end
+1.Mengubah icon gambar pada home USER dan home ADMIN
+
+Senin, 12 Desember 2022
+Back-end
+1.Login dan register sudah berhasil
+2.Membuat koneksi button ambil program agar terhubung ke database dan mengarah ke halaman program saya yang memuat form pembayaran
+Front-end
+1.Membuat button ambil program pada home USER
+
+Selasa, 13 Desember 2022
+Back-end
+1.Membuat koneksi button ambil program agar terhubung ke database dan mengarah ke halaman program saya yang memuat form pembayaran
+2.Membuat query if else 
+Front-end
+1.Membuat form pembayaran pada USER
+2.Membuat form upload bukti pembayaran pada USER
+
+
+
+
+Link URL:
+DASHBOARD UTAMA:
+home: http://localhost:3000
+program: http://localhost:3000/program
+ulasan: http://localhost:3000/ulasan
+sign up: -login: http://localhost:3000/login  -register: http://localhost:3000/register
+
+
+DASHBOARD USER:
+home: http://localhost:3000/homeuser
+daftar program: http://localhost:3000/daftarprogramuser
+program saya: http://localhost:3000/programsaya
+beri ulasan: http://localhost:3000/beriulasan
+log out: kembali ke dashboard home http://localhost:3000
+
+DASHBOARD ADMIN :
+home : http://localhost:3000/homeadmin
+daftarprogram : http://localhost:3000/daftarprogramadmin
+transaksi: http://localhost:3000/transaksi
+data user: http://localhost:3000/datauser
+log out: kembali ke dashboard home http://localhost:3000
